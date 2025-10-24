@@ -8,6 +8,6 @@ python-dotenv==1.0.0
 gunicorn==21.2.0
 transformers==4.30.2
 tokenizers==0.13.3
-torch==2.1.0+cpu
+torch==2.8.0+cpu
 numpy==1.26.4
 regex==2023.10.3
